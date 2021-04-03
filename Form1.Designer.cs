@@ -66,7 +66,7 @@ namespace Actividad_Integradora_5_Problema_1
             // 
             this.lblSaldo.AutoSize = true;
             this.lblSaldo.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblSaldo.Location = new System.Drawing.Point(315, 459);
+            this.lblSaldo.Location = new System.Drawing.Point(288, 447);
             this.lblSaldo.Name = "lblSaldo";
             this.lblSaldo.Size = new System.Drawing.Size(45, 54);
             this.lblSaldo.TabIndex = 5;

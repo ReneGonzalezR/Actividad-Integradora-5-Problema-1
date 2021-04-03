@@ -19,7 +19,7 @@ namespace Actividad_Integradora_5_Problema_1
         }
         public void Retirar(double valor)
         {
-            Saldo = Saldo - valor;
+            Saldo = Saldo + valor;
         }
         public bool SaldoNegativo()
         {
